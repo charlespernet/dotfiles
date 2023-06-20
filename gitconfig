@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charlespernet@gmail.com
+	name = Charles Pernet
